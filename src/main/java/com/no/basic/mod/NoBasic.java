@@ -1,5 +1,7 @@
 package com.no.basic.mod;
 
+import com.no.basic.mod.item.ModItemGroups;
+import com.no.basic.mod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,6 +13,7 @@ public class NoBasic implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
+		ModItemGroups.registerItemGroups();
+		ModItems.registerModItems();
 	}
 }
