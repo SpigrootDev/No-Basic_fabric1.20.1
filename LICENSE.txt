@@ -1,22 +1,24 @@
-Name der Lizenz: "SpigrootDev NoBasic License (SNL)"
+Name of the license: "SpigrootDev NoBasic License (SNL)"
 
-1. Private Nutzung:
-Die Mod darf im privaten Rahmen frei genutzt werden.
+1. Private use:
+The mod may be used freely for private purposes.
 
-2. Einsicht in den Quellcode:
-Der Quellcode darf für die Entwicklung eigener Mods, die von dieser Mod abhängen, eingesehen und analysiert werden.
+2. Access to the source code:
+The source code may be accessed and analyzed for the development of your own mods that depend on this mod.
 
-3. Kopier- und Verbreitungsverbot:
-Es ist untersagt, den Quellcode oder Teile davon ohne vorherige schriftliche Genehmigung zu kopieren, zu verändern oder in irgendeiner Form weiterzuveröffentlichen.
+3. Prohibition of copying and distribution:
+It is prohibited to copy, modify or republish the source code or parts of it in any form without prior written permission.
 
-4. Kommerzielle Nutzung und Firmen:
-Die Nutzung dieser Mod in einem gewerblichen oder kommerziellen Umfeld (einschließlich Nutzung durch Unternehmen) ist nur mit vorheriger schriftlicher Zustimmung des Lizenzgebers gestattet.
-Zusätzlich muss bei jeder kommerziellen Nutzung deutlich sichtbar angegeben werden:
+4. Commercial use and companies:
+The use of this mod in a commercial or industrial environment (including use by companies) is only permitted with the prior written consent of the licensor.
 
-Der Name des Lizenzgebers als Eigentümer der Mod.
-Ein Hinweis, dass das Copyright beim Lizenzgeber liegt.
-Beispiel für die Angabe:
-"Diese Mod wird verwendet mit freundlicher Genehmigung von SpigrootDev(Maximilian Michalski). Copyright © 2024, SpigrootDev(Maximilian Michalski). Alle Rechte vorbehalten."
+In addition, any commercial use must clearly state:
 
-5. Haftungsausschluss:
-Die Mod wird "wie besehen" bereitgestellt, ohne Garantie irgendeiner Art. Der Autor haftet nicht für Schäden, die durch die Nutzung der Mod entstehen.
+The name of the licensor as the owner of the mod.
+
+A note that the copyright lies with the licensor.
+Example of the statement:
+"This mod is used with permission from SpigrootDev(Maximilian Michalski). Copyright © 2024, SpigrootDev(Maximilian Michalski). All rights reserved."
+
+5. Disclaimer:
+The mod is provided "as is", without warranty of any kind. The author is not liable for any damages resulting from the use of the mod.
