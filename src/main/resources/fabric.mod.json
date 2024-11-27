@@ -11,7 +11,7 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "SNL",
+	"license": "SpigrotDev License (SDL) - find at https://github.com/SpigrootDev/SDLICENSE",
 	"icon": "assets/no-basic/icon.png",
 	"environment": "*",
 	"entrypoints": {
