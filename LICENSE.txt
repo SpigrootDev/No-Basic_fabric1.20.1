@@ -1,0 +1,22 @@
+Name der Lizenz: "SpigrootDev NoBasic License (SNL)"
+
+1. Private Nutzung:
+Die Mod darf im privaten Rahmen frei genutzt werden.
+
+2. Einsicht in den Quellcode:
+Der Quellcode darf für die Entwicklung eigener Mods, die von dieser Mod abhängen, eingesehen und analysiert werden.
+
+3. Kopier- und Verbreitungsverbot:
+Es ist untersagt, den Quellcode oder Teile davon ohne vorherige schriftliche Genehmigung zu kopieren, zu verändern oder in irgendeiner Form weiterzuveröffentlichen.
+
+4. Kommerzielle Nutzung und Firmen:
+Die Nutzung dieser Mod in einem gewerblichen oder kommerziellen Umfeld (einschließlich Nutzung durch Unternehmen) ist nur mit vorheriger schriftlicher Zustimmung des Lizenzgebers gestattet.
+Zusätzlich muss bei jeder kommerziellen Nutzung deutlich sichtbar angegeben werden:
+
+Der Name des Lizenzgebers als Eigentümer der Mod.
+Ein Hinweis, dass das Copyright beim Lizenzgeber liegt.
+Beispiel für die Angabe:
+"Diese Mod wird verwendet mit freundlicher Genehmigung von SpigrootDev(Maximilian Michalski). Copyright © 2024, SpigrootDev(Maximilian Michalski). Alle Rechte vorbehalten."
+
+5. Haftungsausschluss:
+Die Mod wird "wie besehen" bereitgestellt, ohne Garantie irgendeiner Art. Der Autor haftet nicht für Schäden, die durch die Nutzung der Mod entstehen.
