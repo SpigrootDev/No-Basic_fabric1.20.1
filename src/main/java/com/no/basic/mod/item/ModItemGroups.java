@@ -10,11 +10,11 @@ import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 
 public class ModItemGroups {
-    public static final ItemGroup RUBY_GROUP = Registry.register(Registries.ITEM_GROUP,
-            new Identifier(NoBasic.MOD_ID, "ruby"),
-            FabricItemGroup.builder().displayName(Text.translatable("intemgroup.ruby"))
-                    .icon(() -> new ItemStack(ModItems.RUBY)).entries((displayContext, entries) -> {
-                        entries.add(ModItems.RUBY);
+    public static final ItemGroup COIN_GROUP = Registry.register(Registries.ITEM_GROUP,
+            new Identifier(NoBasic.MOD_ID, "coin"),
+            FabricItemGroup.builder().displayName(Text.translatable("intemgroup.coin"))
+                    .icon(() -> new ItemStack(ModItems.coin)).entries((displayContext, entries) -> {
+                        entries.add(ModItems.COIN);
 
 
                     }).build());

@@ -15,10 +15,10 @@ import javax.xml.namespace.QName;
 
 public class ModItems {
 
-    public static final Item RUBY = registerItem("ruby", new Item(new FabricItemSettings()));
+    public static final Item COIN = registerItem("coin", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries){
-        entries.add(RUBY);
+        entries.add(COIN);
     }
 
     private static Item registerItem(String name, Item item){
@@ -27,7 +27,5 @@ public class ModItems {
 
     public static void registerModItems(){
         NoBasic.LOGGER.info("Regisering Mod Items for " + NoBasic.MOD_ID);
-
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModItems::addItemsToIngredientTabItemGroup);
     }
 }
